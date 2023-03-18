@@ -1,0 +1,6 @@
+pl\polsl\michaltetych\error\ErrorClass.class
+pl\polsl\michaltetych\servlets\DBManager.class
+pl\polsl\michaltetych\servlets\ServletClass.class
+pl\polsl\michaltetych\servlets\PlayfairDatabase.class
+pl\polsl\michaltetych\model\ModelClass.class
+pl\polsl\michaltetych\servlets\HistoryPlayfair.class

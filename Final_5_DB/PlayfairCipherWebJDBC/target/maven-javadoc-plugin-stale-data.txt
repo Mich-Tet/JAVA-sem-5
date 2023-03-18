@@ -1,0 +1,61 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/micha/.m2/repository/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar;C:/Users/micha/.m2/repository/org/apache/derby/derbyclient/10.14.2.0/derbyclient-10.14.2.0.jar;C:/Users/micha/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PlayfairCipherWeb-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PlayfairCipherWeb-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+pl.polsl.michaltetych.error
+pl.polsl.michaltetych.model
+pl.polsl.michaltetych.servlets
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/src/main/java/pl/polsl/michaltetych/error/ErrorClass.java'
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/src/main/java/pl/polsl/michaltetych/error/package-info.java'
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/src/main/java/pl/polsl/michaltetych/model/ModelClass.java'
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/src/main/java/pl/polsl/michaltetych/model/package-info.java'
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/src/main/java/pl/polsl/michaltetych/servlets/DBManager.java'
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/src/main/java/pl/polsl/michaltetych/servlets/HistoryPlayfair.java'
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/src/main/java/pl/polsl/michaltetych/servlets/package-info.java'
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/src/main/java/pl/polsl/michaltetych/servlets/PlayfairDatabase.java'
+'C:/Users/micha/Desktop/PlayfairCipherWebJDBC/src/main/java/pl/polsl/michaltetych/servlets/ServletClass.java'
+C:\Users\micha\.m2\repository\jakarta\platform\jakarta.jakartaee-api\8.0.0\jakarta.jakartaee-api-8.0.0.jar = 1669297951695
+C:\Users\micha\.m2\repository\org\apache\derby\derbyclient\10.14.2.0\derbyclient-10.14.2.0.jar = 1670502012620
+C:\Users\micha\.m2\repository\org\apache\derby\derby\10.14.2.0\derby-10.14.2.0.jar = 1670501700318
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\src\main\java = 1671459465931
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\allclasses-index.html = 1671552552855
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\allpackages-index.html = 1671552552859
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\element-list = 1671552552680
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\help-doc.html = 1671552552904
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\index-all.html = 1671552552895
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\index.html = 1671552552827
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\jquery-ui.overrides.css = 1671552552931
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\member-search-index.js = 1671552552867
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\module-search-index.js = 1671552552862
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\overview-summary.html = 1671552552898
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\overview-tree.html = 1671552552821
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\package-search-index.js = 1671552552863
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\script.js = 1671552552910
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\search.js = 1671552552913
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\serialized-form.html = 1671552552750
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\stylesheet.css = 1671552552907
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\tag-search-index.js = 1671552552868
+C:\Users\micha\Desktop\PlayfairCipherWebJDBC\target\site\apidocs\type-search-index.js = 1671552552865
