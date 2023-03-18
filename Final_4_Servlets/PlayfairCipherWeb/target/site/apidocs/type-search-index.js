@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"pl.polsl.michaltetych.model","l":"ModelClass"},{"p":"pl.polsl.michaltetych.servlets","l":"ServletClass"},{"p":"pl.polsl.michaltetych.servlets","l":"UserDate"}];updateSearchResults();
