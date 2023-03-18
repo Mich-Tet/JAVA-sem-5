@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.polsl.michaltetych.controller"},{"l":"pl.polsl.michaltetych.model"},{"l":"pl.polsl.michaltetych.playfaircipher"},{"l":"pl.polsl.michaltetych.view"}];updateSearchResults();
